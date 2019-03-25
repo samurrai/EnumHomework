@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\EnumHomework\EnumHomework\bin\Debug\EnumHomework.exe.config
+C:\Users\User\source\repos\EnumHomework\EnumHomework\bin\Debug\EnumHomework.exe
+C:\Users\User\source\repos\EnumHomework\EnumHomework\bin\Debug\EnumHomework.pdb
+C:\Users\User\source\repos\EnumHomework\EnumHomework\obj\Debug\EnumHomework.csprojAssemblyReference.cache
+C:\Users\User\source\repos\EnumHomework\EnumHomework\obj\Debug\EnumHomework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EnumHomework\EnumHomework\obj\Debug\EnumHomework.exe
+C:\Users\User\source\repos\EnumHomework\EnumHomework\obj\Debug\EnumHomework.pdb
